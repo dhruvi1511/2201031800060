@@ -1,0 +1,29 @@
+.image-1-icon,
+.image-51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 6643px;
+  height: 3013px;
+}
+.image-1-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.image {
+  height: 3013px;
+  flex: 1;
+  position: relative;
+}
+.macbook-air-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-17xl) 0 0;
+  box-sizing: border-box;
+}

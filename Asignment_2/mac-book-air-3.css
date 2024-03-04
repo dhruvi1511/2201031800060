@@ -1,0 +1,33 @@
+.image-3-icon,
+.image-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 6643px;
+  height: 3013px;
+}
+.image-3-icon {
+  height: 100%;
+  bottom: 0;
+  left: 149px;
+  max-height: 100%;
+  width: 6494px;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-5-parent {
+  height: 3013px;
+  flex: 1;
+  position: relative;
+}
+.macbook-air-3 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-17xl) 0 0;
+  box-sizing: border-box;
+}
